@@ -159,6 +159,7 @@ The application periodically updates user locations to ensure that displayed inf
 ### Quick Evaluation
 
 An APK build has been attached in GitHub Releases and can be installed directly on an Android device for testing.
+ [Download APK]  (https://github.com/himanshu-1629/Campus-Pulse/releases/tag/v1.0)
 
 ### Running the Source Code
 

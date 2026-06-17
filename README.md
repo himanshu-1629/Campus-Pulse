@@ -180,31 +180,41 @@ flutter run
 
 # Screenshots of the Application
 
-## Login Screen
+### Login Screen
+
 ![Login](screenshots/login.png)
 
-## Registration Screen
+### Registration Screen
+
 ![Register](screenshots/Register.png)
 
-## Home Screen
+### Home Screen
+
 ![Home_teacher](screenshots/Teacher_homescreen.png)
+
 ![Home_student](screenshots/student_homescreen.png)
 
-## Teacher Finder
+### Teacher Finder
+
 ![Teacher Finder](screenshots/teacher_finder.png)
 
-## Friends Module
+### Friends Module
+
 ![Friends](screenshots/friends.png)
 
-## Campus Map
+### Campus Map
+
 ![Map](screenshots/map.png)
+
 ![Map_direction](screenshots/map_screen.png)
 
-## Crowd Monitoring
+### Crowd Monitoring
 ![Crowd](screenshots/Crowd_density.png)
+
 ![Crowd_on_zone_mapview](screenshots/crowd_density_on_mapview.png)
 
-## Navigation Support
+### Navigation Support
+
 ![Directions](screenshots/get_direction.png)
 
 ---

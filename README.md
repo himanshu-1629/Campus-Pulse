@@ -180,44 +180,63 @@ flutter run
 
 # Screenshots of the Application
 
-### Login Screen
+## Login & Registration
 
-![Login](screenshots/login.png)
-
-### Registration Screen
-
-![Register](screenshots/Register.png)
-
-### Home Screen
-
-![Home_teacher](screenshots/Teacher_homescreen.png)
-
-![Home_student](screenshots/student_homescreen.png)
-
-### Teacher Finder
-
-![Teacher Finder](screenshots/teacher_finder.png)
-
-### Friends Module
-
-![Friends](screenshots/friends.png)
-
-### Campus Map
-
-![Map](screenshots/map.png)
-
-![Map_direction](screenshots/map_screen.png)
-
-### Crowd Monitoring
-![Crowd](screenshots/Crowd_density.png)
-
-![Crowd_on_zone_mapview](screenshots/crowd_density_on_mapview.png)
-
-### Navigation Support
-
-![Directions](screenshots/get_direction.png)
+<p align="center">
+  <img src="screenshots/login.png" width="250"/>
+  <img src="screenshots/Register.png" width="250"/>
+</p>
 
 ---
+
+## Home Screens
+
+<p align="center">
+  <img src="screenshots/Teacher_homescreen.png" width="250"/>
+  <img src="screenshots/student_homescreen.png" width="250"/>
+</p>
+
+---
+
+## Teacher Finder
+
+<p align="center">
+  <img src="screenshots/teacher_finder.png" width="250"/>
+</p>
+
+---
+
+## Friends Module
+
+<p align="center">
+  <img src="screenshots/friends.png" width="250"/>
+</p>
+
+---
+
+## Campus Map
+
+<p align="center">
+  <img src="screenshots/map.png" width="250"/>
+  <img src="screenshots/map_screen.png" width="250"/>
+</p>
+
+---
+
+## Crowd Monitoring
+
+<p align="center">
+  <img src="screenshots/Crowd_density.png" width="250"/>
+  <img src="screenshots/crowd_density_on_mapview.png" width="250"/>
+</p>
+
+---
+
+## Navigation Support
+
+<p align="center">
+  <img src="screenshots/get_direction.png" width="250"/>
+</p>
 
 # Demo Video
 

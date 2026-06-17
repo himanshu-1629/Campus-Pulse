@@ -241,19 +241,24 @@ flutter run
 
 # Demo Video
 
-A demonstration video showcasing the application's major features has been included with the submission.
+Watch the demonstration video here:
 
-The video covers:
+[🎥 Campus Pulse Demo Video](https://drive.google.com/file/d/1i6DnhYAD9x8HQB-sC2-7ZMmNCkv9LuOm/view?usp=drivesdk)
+
+The demo showcases the major features of the application, including:
 
 * User Registration
 * Login Flow
+* Teacher Availability Management
 * Teacher Finder
-* Teacher Status Updates
-* Friend Requests
-* Friend Location Tracking
-* Crowd Monitoring
-* Live Campus Map
-* Navigation Support
+* Friend Requests and Friend Management
+* Live Friend Location Tracking
+* Campus Map Visualization
+* Crowd Density Monitoring
+* Navigation Support using Google Maps
+
+The video provides a complete walkthrough of the application and demonstrates how Campus Pulse improves campus visibility, connectivity, and navigation.
+
 
 ---
 
